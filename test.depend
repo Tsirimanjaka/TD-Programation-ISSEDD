@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683181755 source:/home/tsirimanjaka/Documents/Tsirimanjaka/Projet/C/Groupe 08/test/main.c
+	<stdio.h>
+	<stdlib.h>
+
